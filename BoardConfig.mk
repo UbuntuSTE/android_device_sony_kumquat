@@ -11,7 +11,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/kumquat/include
 
 
 # Kernel specific configurations
-TARGET_KERNEL_CONFIG := xperiau_defconfig
+TARGET_KERNEL_CONFIG := xperiau_ubuntu_defconfig
 
 
 # Recovery
